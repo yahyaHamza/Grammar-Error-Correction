@@ -16,5 +16,7 @@ The dataset for this project is sourced from C4 (Colossal Clean Crawled Corpus),
 The preprocessing pipeline includes:
 
 1- Data Cleaning: Removing special characters, extra whitespaces, and irrelevant data.
+
 2- Tokenization: Splitting sentences into tokens and preparing them for model input.
+
 3- Padding: Ensuring sentence lengths are consistent for the LSTM model.
